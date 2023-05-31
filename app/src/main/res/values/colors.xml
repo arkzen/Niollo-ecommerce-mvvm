@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="orange_coral">#FF884B</color>
+
+    <color name="gray_gallery">#EBEBEB</color>
+    <color name="gray_oslo">#818A94</color>
+
+    <color name="black_mineshaft">#2D2D2D</color>
+    <color name="white_ziron">#FBFCFF</color>
+    <color name="blue_sanmarino">#4267B2</color>
+
 </resources>
