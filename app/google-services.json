@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331897515732",
+    "project_id": "niollo-266a8",
+    "storage_bucket": "niollo-266a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331897515732:android:70e0d3b693714fdefa9541",
+        "android_client_info": {
+          "package_name": "studios.darkzen.niollo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYsK-2R4ozxYWJSC1eBRTtrLDo9Tjh4Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
