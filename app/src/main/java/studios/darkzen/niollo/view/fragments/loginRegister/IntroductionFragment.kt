@@ -1,0 +1,7 @@
+package studios.darkzen.niollo.view.fragments.loginRegister
+
+import androidx.fragment.app.Fragment
+import studios.darkzen.niollo.R
+
+class IntroductionFragment : Fragment(R.layout.fragment_introduction) {
+}
